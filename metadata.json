@@ -1,0 +1,6 @@
+{
+  "name": "Admission Register to Excel",
+  "description": "Convert handwritten school admission register photos into structured Excel sheets offline using Tesseract.js and SheetJS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
